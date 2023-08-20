@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  TrafficLight
 //
-//  Created by Назар on 19.08.2023.
+//  Created by Olzhas on 19.08.2023.
 //
 
 import UIKit
